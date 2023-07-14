@@ -1,4 +1,4 @@
 Volume 2
 ========
 
-Welcome to the second edition of 24 Days of Rust!
+This is the second volume of **Rust Coding Bootcamp** which was forked from *24 days of Rust* at https://zsiciarz.github.io/24daysofrust/

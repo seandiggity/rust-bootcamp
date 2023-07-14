@@ -1,5 +1,5 @@
 [[package]]
-name = "24daysofrust"
+name = "rust-coding-bootcamp"
 version = "0.0.1"
 dependencies = [
  "anymap 0.12.1 (registry+https://github.com/rust-lang/crates.io-index)",

@@ -1,58 +1,58 @@
 [package]
-name = "24daysofrust"
+name = "rust-coding-bootcamp"
 version = "0.0.1"
-authors = ["Zbigniew Siciarz <zbigniew@siciarz.net>"]
+authors = ["Sean O'Brien <sean.obrien@yale.edu>"]
 
 [[bin]]
-name = "day2"
+name = "lesson2"
 
 [[bin]]
-name = "day3"
+name = "lesson3"
 
 #[[bin]]
-#name = "day4"
+#name = "lesson4"
 
 [[bin]]
-name = "day5"
+name = "lesson5"
 
 [[bin]]
-name = "day6"
+name = "lesson6"
 
 [[bin]]
-name = "day7"
+name = "lesson7"
 
 [[bin]]
-name = "day9"
+name = "lesson9"
 
 [[bin]]
-name = "day10"
+name = "lesson10"
 
 [[bin]]
-name = "day11"
+name = "lesson11"
 
 [[bin]]
-name = "day12"
+name = "lesson12"
 
 [[bin]]
-name = "day13"
+name = "lesson13"
 
 [[bin]]
-name = "day14"
+name = "lesson14"
 
 [[bin]]
-name = "day15"
+name = "lesson15"
 
 [[bin]]
-name = "day17"
+name = "lesson17"
 
 [[bin]]
-name = "day18"
+name = "lesson18"
 
 [[bin]]
-name = "day20"
+name = "lesson20"
 
 [[bin]]
-name = "day21"
+name = "lesson21"
 
 [dependencies]
 anymap = "0.12.1"
