@@ -9,7 +9,7 @@ This **Rust Coding Bootcamp** series was forked from *24 days of Rust* at https:
 Author
 ======
 
- * Zbigniew Siciarz (zbigniew at siciarz dot net), with minor edits by Sean O&amp;Brien (sean dot obrien at yale dot edu)
+ * Zbigniew Siciarz (zbigniew at siciarz dot net), with minor edits by Sean O&apos;Brien (sean dot obrien at yale dot edu)
 
 License
 =======
